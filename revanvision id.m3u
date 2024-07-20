@@ -1,6 +1,12 @@
 
 =========NASIONAL=======
 
+#EXTINF:-1 xui-id="25686" tvg-id="Indosiar.MACAN" tvg-name="Indosiar" tvg-logo="https://media1.tenor.com/m/03RHsZ8d2w0AAAAd/1996-ident.gif" group-title="NASIONAL,Indosiar
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
+#EXTINF:-1 xui-id="25688" tvg-id="SCTV.MACAN" tvg-name="SCTV (Sport)" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/c670468d30bf64d6dce2638db729b438/368348.gif" group-title="NASIONAL",SCTV (Sport)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
+
 ======ANTV=========
 
 #EXTINF:-1 tvg-id="AnTV.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/202.png" group-title="NASIONAL", ANTV
