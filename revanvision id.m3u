@@ -3,6 +3,9 @@
 
 ======ANTV=========
 
+#EXTINF:-1 xui-id="25688" tvg-id="SCTV.MACAN" tvg-name="SCTV (Sport)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvMfX5O3iQdhcUMx64Zlyddm4nyOmhYbT0ivkss_mZHPsxycsq" group-title="NASIONAL",SCTV (Sport)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
 #EXTINF:-1 tvg-id="AnTV.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/202.png" group-title="NASIONAL", ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
